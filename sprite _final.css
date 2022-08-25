@@ -1,0 +1,212 @@
+.Header
+{
+    background-color: #009b4e;
+    height: 70px;
+    width: 100%;
+    margin-top: 0px;
+    color: white;
+    border-top: 0px;
+    position: fixed;
+    z-index: 10;
+}
+#sprite{ 
+    width: 8%;
+    float: left;
+    padding-left: 50px;
+    padding-top: 15px;
+   
+}
+button {
+    background-color:#009b4e;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+    padding-top: 25px;
+    font-weight: bold;
+    width: 15%;
+    float: left;
+    transition-duration: 0.4s;
+  }
+  .button:hover{
+    background-color: #009b4e;
+    color: black;
+  }
+
+.social{
+    float: left;
+   padding-left: 370px;
+   padding-top: 21px;
+   cursor: pointer;
+   
+}
+.Startimage{
+    padding-top: 70px;
+    width: 100%;
+    color: white;
+    margin-bottom: 0px;
+}
+.Title{
+    font-family: "sans-serif";
+    font-style: italic;
+    font-weight: 900;
+    font-size: 25px;
+    padding-left: 400px;
+    margin-top: 0px;
+}
+#Text1{
+    position: relative;
+    bottom: 390px;
+    left: 70px;
+    font-size: 42px;
+    font-family: "sans-serif";
+     width: 300px;
+}
+#Text2{
+    position: relative;
+    bottom: 400px;
+    left: 70px;
+    font-size: x-large;
+    font-weight: 100;
+    width: 900px;
+}
+.Anthony{
+    width: 700px;
+    margin-top: 0px;
+    line-height: 30px;
+    font-family: "sans-serif";
+    font-size: 17px;
+    padding-left: 400px;
+    
+    
+}
+.Video{
+    margin-top: 30px;
+    padding-left: 400px;
+    height: 200px;
+    width: 30%;
+}
+.Image{
+    margin-top: 150px;
+    width: 50%;
+    float: left;
+    
+}
+.Image2{
+    margin-top: 150px;
+    width: 50%;
+    float: left;
+    
+}
+#Dialogue{
+    
+    font-size: 45px;
+    position: absolute;
+    top: 1350px;
+    left: 250px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    
+}
+
+
+.Image3{
+    position: absolute;
+    top: 1635px;
+    left: 250px;
+    width: 30%;
+    height: 100px;
+    border-bottom: 100px;
+ 
+}
+
+.Footer{
+    background-color: #009b4e;
+    height: 520px;
+    width: 100%;
+    margin-top: 600px;
+    color: white;
+    margin-bottom: 0px;
+}
+.Logo{
+   
+    width: 10%;
+    align-items: center;
+    float: left;
+    padding-top: 85px;
+   padding-right: 20px;
+   margin-left: 200px;
+    
+}
+#Connect{
+font-size: 15px;
+font-weight: bolder;
+padding-top: 80px;
+float: left;
+font-family: "FuturaBT W05 ExtraBlack Italic";
+margin-left: 50px;
+width: 30%;
+}
+.social-2{
+    padding-top: 150px;
+    padding-left: 470px;
+    margin-left: 50px;
+}
+.Products{
+  
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    padding-left: 800px;
+    position: relative;
+    bottom: 120px;
+    line-height: 28px;
+    font-weight: bold;
+    margin-bottom: 0%;
+    font-size: 15px;
+    padding-top: 5px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.List{
+    list-style: none;
+}
+
+.Company{
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    margin-left: 400px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+buttons {
+   float: left;
+    background-color:#009b4e;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2px;
+    cursor: pointer;
+    font-weight: bold;
+    width: fit-content;
+    float: left;
+    transition-duration: 0.4s;
+  }
+  .buttons:hover{
+    background-color: #009b4e;
+    color: black;
+  }
+.Footerbottom
+{
+    display: flex;
+    flex-direction: row;
+    column-gap: 0px;
+    margin-bottom:200px;
+    cursor: pointer;
+}
